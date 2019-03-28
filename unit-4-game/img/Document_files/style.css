@@ -1,0 +1,13 @@
+.app {
+  font-size: 35px;
+  font: bold;
+}
+
+.item {
+  font-size: 35px;
+  font: bold;
+  
+}
+.button{
+    float: left;
+}

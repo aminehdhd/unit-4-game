@@ -1,0 +1,73 @@
+.title {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  width: 400px;
+  font-size: 50px;
+  margin: 15px;
+}
+body {
+  background-color: pink;
+  padding: 15px;
+  margin: 15px;
+}
+
+.intro {
+  background: grey;
+  padding: 15px;
+  margin: 15px;
+  color: green;
+  width: 600px;
+  font-size: 25px;
+}
+
+#random-number {
+  background-color: green;
+  color: white;
+  padding: 15px;
+  width: 200px;
+  font-size: 50px;
+  margin: 15px;
+  float: left;
+  height: 100px;
+}
+.wins-losses {
+  background-color: green;
+  color: white;
+  padding: 15px;
+  width: 150px;
+  font-size: 18px;
+  margin: 15px;
+  float: left;
+  height: 100px;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  margin: 15px;
+}
+.pictures {
+  margin: 15px;
+}
+.spacing {
+  clear: both;
+}
+.total-score {
+  background: grey;
+  padding: 15px;
+  margin: 15px;
+  color: white;
+  width: 300px;
+  font-size: 20px;
+}
+.score{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    width: 200px;
+    font-size: 50px;
+    margin: 15px;
+    float: left;
+    height: 100px;
+}
